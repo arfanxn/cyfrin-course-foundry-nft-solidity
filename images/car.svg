@@ -1,0 +1,28 @@
+<svg
+    version="1.1"
+    id="Layer_1"
+    xmlns="http://www.w3.org/2000/svg"
+    xmlns:xlink="http://www.w3.org/1999/xlink"
+    viewBox="0 0 200 100"
+    xml:space="preserve"
+    width="200px"
+    height="100px"
+>
+    <!-- Car body -->
+    <path d="M20,60 Q40,30 80,30 Q120,30 140,60 L180,60 Q190,70 180,80 H20 Q10,70 20,60 Z" fill="#FFD700" />
+    
+    <!-- Windows -->
+    <path d="M50,40 Q60,30 80,30 Q100,30 110,40 L110,50 L50,50 Z" fill="#B0BEC5" />
+    
+    <!-- Rear windshield -->
+    <path d="M50,40 Q60,35 80,40 Q70,35 50,40 Z" fill="#B0BEC5" />
+    
+    <!-- Wheels -->
+    <circle cx="40" cy="75" r="10" fill="#000" />
+    <circle cx="160" cy="75" r="10" fill="#000" />
+</svg>
+
+<!-- 
+data:image/svg+xml;base64,
+PHN2ZwogICAgdmVyc2lvbj0iMS4xIgogICAgaWQ9IkxheWVyXzEiCiAgICB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciCiAgICB4bWxuczp4bGluaz0iaHR0cDovL3d3dy53My5vcmcvMTk5OS94bGluayIKICAgIHZpZXdCb3g9IjAgMCAyMDAgMTAwIgogICAgeG1sOnNwYWNlPSJwcmVzZXJ2ZSIKICAgIHdpZHRoPSIyMDBweCIKICAgIGhlaWdodD0iMTAwcHgiCj4KICAgIDwhLS0gQ2FyIGJvZHkgLS0+CiAgICA8cGF0aCBkPSJNMjAsNjAgUTQwLDMwIDgwLDMwIFExMjAsMzAgMTQwLDYwIEwxODAsNjAgUTE5MCw3MCAxODAsODAgSDIwIFExMCw3MCAyMCw2MCBaIiBmaWxsPSIjRkZENzAwIiAvPgogICAgCiAgICA8IS0tIFdpbmRvd3MgLS0+CiAgICA8cGF0aCBkPSJNNTAsNDAgUTYwLDMwIDgwLDMwIFExMDAsMzAgMTEwLDQwIEwxMTAsNTAgTDUwLDUwIFoiIGZpbGw9IiNCMEJFQzUiIC8+CiAgICAKICAgIDwhLS0gUmVhciB3aW5kc2hpZWxkIC0tPgogICAgPHBhdGggZD0iTTUwLDQwIFE2MCwzNSA4MCw0MCBRNzAsMzUgNTAsNDAgWiIgZmlsbD0iI0IwQkVDNSIgLz4KICAgIAogICAgPCEtLSBXaGVlbHMgLS0+CiAgICA8Y2lyY2xlIGN4PSI0MCIgY3k9Ijc1IiByPSIxMCIgZmlsbD0iIzAwMCIgLz4KICAgIDxjaXJjbGUgY3g9IjE2MCIgY3k9Ijc1IiByPSIxMCIgZmlsbD0iIzAwMCIgLz4KPC9zdmc+
+-->
